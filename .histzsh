@@ -1,0 +1,79 @@
+exit
+sudo cp /etc/X11/xinit/xinitrc .xinit
+ls
+ls -al
+sudo mv .xinit .xinitrc
+sudo nvim .xinitrc
+git clone https://github.com/bleak-alpha/walls
+mkdir Downloads
+cd Downloads
+ls
+git clone https://github.com/bleak-alpha/dwm-set
+sudo dhcpcd
+git clone https://github.com/bleak-alpha/dwm-set
+git clone https://github.com/bleak-alpha/dwm-set
+ping gnu.org
+sudo dhcpcd
+git clone https://github.com/bleak-alpha/dwm-set
+reboot
+brightnessctl s 30%
+cd Downloads
+cd Download
+ls
+cd
+ls
+cd Downloads
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si PKGBUILD
+cd ..
+cd dwm-set
+sudo cp 30-touchpad-Laptop-touchpad-conf.conf /etc/X11/xorg.conf.d/30-touchpad.conf
+ks
+ls
+cd
+git clone https://github.com/bleak-alpha/walls
+sudo nvim /etc/pacman.conf
+sudo pacman -Syy wine --asdeps
+sudo pacman -S pcmanfm gnome-screenshot flameshot
+sudo pacman -S lxappearance
+sudo pacman -Syy plasma kde-applications
+sudo pacman -Syy plasma kde-applications
+ls
+cd
+sudo pacman -S curl
+brightnessctl 2 30
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+iwctl
+iwctl
+bash
+iwctl station wlan0 connect "Kali-Linux Wireshark"
+iwct;
+iwctl
+cd Downloads
+git clone https://github.com/bleak-alpha/dwm-set
+sudo dhcpcd
+ping gnu.org
+git clone https://github.com/bleak-alpha/dwm-set
+cd dwm-set
+cd dwm-6.2
+sudo make clean install
+cd ..
+ls
+cd dmenu-5.0
+sudo make clean install
+cd ..
+ls
+cd slstatus
+sudo make clean install
+cd ..
+ls
+cd st-0.8.2
+sudo make clean install
+sudo pacman -S powerline-fonts otf-awesome-font ttf-awesome-font
+sudo pacman -S powerline-fonts otf-font-awesome ttf-font-awesome
+startx
+startx
+cd
+ls
+startx
