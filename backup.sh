@@ -1,8 +1,12 @@
 #!/bin/sh
+bleak=/home/bleak
+git clone https://github.com/bleak-alpha/dotfiles.git $bleak
 
-printf "Backing Up ZSH Configs"
-cp .oh-my-zsh $(pwd)/
-cp .zshrc $(pwd)/
+printf "\nBacking Up ZSH Configs"
+cp $bleak/.oh-my-zsh $bleak/dotfiles/
+cp $bleak/.zshrc $bleak/dotfiles/
 
-printf "Backing Up Neovim Configs"
-cp $"HOME"/.config/nvim $(pwd)/.config/
+printf "\nBacking Up Neovim Configs"
+cp $bleak/.config/nvim $bleak/dotfiles/
+
+printf "\nBacking up "
