@@ -1,0 +1,12 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{	"font_face": "Fira Code",
+	"font_size": 11.6,
+	"dlig": true,
+	"shift_tab_unindent": false,
+	"theme": "GitHub Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
